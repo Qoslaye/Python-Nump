@@ -1,0 +1,13 @@
+Numpy Overview 
+----------------
+
+Numpy : is powerful python library for numerical and scientific computing ,
+it provides support for array (especially multi diamansial ) , mathemitical function ,
+random number generation , and linear al gebra operation 
+
+Why Numpy ? 
+-Efficiancy : operation faster than standard python lists to optimized low level implementation 
+-Memory Usage : Numpy uses less memory than python lists 
+-broadcasting : allows efficent mathmetical operation between arrays of different shapes 
+-integration : Numpy integrates seamlessly with many libraries in the python ecosystem 
+
